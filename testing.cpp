@@ -21,7 +21,7 @@ void main()
     {
         generate();
     }
-    else if(YesOrNo == "No" || "no" || "n")
+    else
     {
         main();
     }
