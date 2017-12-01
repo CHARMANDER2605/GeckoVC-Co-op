@@ -10,6 +10,7 @@ void generate();
 
 int leagth = 0;
 string YesOrNo = "";
+char charecters[];
 
 void main()
 {
